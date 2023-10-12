@@ -6,5 +6,5 @@ The python code is written as a package in which two modules are included - exp1
 Authors and Affiliations : NishyReshmi S, Department of Computer Science and Engineering, College of Engineering Trivandrum, Thiruvananthapuram, Kerala, India-695016. Affiliated to APJ Abdul Kalam Technological University, Thiruvananthapuram, Kerala, India-695016. Email: nishyreshmi@gmail.in
 				Shreelekshmi R, Department of Department of Computer Applications, College of Engineering Trivandrum, Thiruvananthapuram, Kerala, India-695035. 
 				Affiliated to APJ Abdul Kalam Technological University, Thiruvananthapuram, Kerala, India-695016. 					
-				Email: shreelekshmir@gecbh.ac.in
+				Email: shreelekshmi@cet.ac.in
 
