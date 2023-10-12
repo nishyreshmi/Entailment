@@ -8,4 +8,4 @@ Authors and Affiliations : NishyReshmi S, Department of Computer Science and Eng
 				Affiliated to APJ Abdul Kalam Technological University, Thiruvananthapuram, Kerala, India-695016. 					
 				Email: shreelekshmir@gecbh.ac.in
 
-This software prototype is developed in python3.6.9 and is working on ubuntu18.04  platform. The software package is executed using the driver program sent_classify.py program.
+This software prototype is developed in python3.6.9 and is working on ubuntu18.04  platform. The software package is executed using the driver program sent_class2_paper.py program.
