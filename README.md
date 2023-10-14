@@ -10,6 +10,9 @@ Authors and Affiliations : NishyReshmi S, Department of Computer Science and Eng
 
 This software prototype is developed in python3.6.9 and is working on ubuntu18.04  platform. The software package is executed using the driver program sent_class2_paper.py program.
 
+MIT License
+
+Copyright (c) 2023 nishyreshmi
 
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
